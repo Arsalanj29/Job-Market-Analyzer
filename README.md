@@ -9,9 +9,9 @@
 
 ---
 
-## 🌐 CLICK TO VIEW Live Demo
+## 🌐 CLICK Link TO VIEW Live Demo
 
-**→ [View]([https://your-app-name.streamlit.app](https://job-market-analyzer-csl5t7bcappqw6gn4ja3bge.streamlit.app/))**
+"View" (https://job-market-analyzer-csl5t7bcappqw6gn4ja3bge.streamlit.app/)
 
 *(Replace with your Streamlit Community Cloud URL after deployment)*
 
