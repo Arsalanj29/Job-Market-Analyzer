@@ -11,7 +11,7 @@
 
 ## 🌐 CLICK TO VIEW Live Demo
 
-**→ [https://your-app-name.streamlit.app]([https://your-app-name.streamlit.app](https://job-market-analyzer-csl5t7bcappqw6gn4ja3bge.streamlit.app/))**
+**→ [View]([https://your-app-name.streamlit.app](https://job-market-analyzer-csl5t7bcappqw6gn4ja3bge.streamlit.app/))**
 
 *(Replace with your Streamlit Community Cloud URL after deployment)*
 
